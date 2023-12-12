@@ -10,6 +10,9 @@ $ pip install -r requirements.txt
 ```
 If the command fails, probably you don't have python3 and/or pip in your machine
 
-2) Now open the 'SillySpammy' file using the python3 command
+2) Now run the 'SillySpammy' file using the python command
+```
+$ python <SillySpammy directory>
+```
 
 3) have fun :)
